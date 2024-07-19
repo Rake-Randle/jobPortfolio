@@ -1,2 +1,3 @@
-# Job Portfolio
-Different projects I have done
+# Jake Handels Portfolio of work
+
+### I will include my different projects of interest 
